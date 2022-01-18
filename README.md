@@ -16,7 +16,7 @@ Practice with building a basic ExpressJS server with routes.
 1. Install the project dependencies with `npm i express nodemon`. (Don't install `nodemon` locally if you installed it globally today!)
 1. Fulfill the requirements below to complete the assignment.
 
-Unless otherwise stated, assignments are due by 10 am ET on the next class day. 
+Unless otherwise stated, assignments are due by 9 am ET on the next class day. 
 
 ### MVP
 - Your application must run without errors in order to be considered complete. 
