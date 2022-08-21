@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3E2348",
+        "titleBar.activeBackground": "#563065",
+        "titleBar.activeForeground": "#FDFCFD"
+    },
+    "marquee.widgets.npm-stats.packageNames": [
+        "express-books-app"
+    ]
+}
